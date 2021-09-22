@@ -1,13 +1,18 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.29613.14
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31710.8
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnyClone", "AnyClone\AnyClone.csproj", "{36C56C2B-2D24-4200-AA7B-8A0E30DC3C25}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnyClone.Tests", "AnyClone.Tests\AnyClone.Tests.csproj", "{BC34CCD6-3AE5-4652-8098-BC60583C6A45}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnyClone.PerformanceTests", "AnyClone.PerformanceTests\AnyClone.PerformanceTests.csproj", "{B7C98CE9-CD51-4A70-B50A-2975FC720F70}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F27E8F6E-CD26-435D-9DBE-86F7BF6CAAC8}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
